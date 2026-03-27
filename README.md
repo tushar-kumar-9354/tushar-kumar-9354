@@ -40,21 +40,6 @@ I'm a **Software Developer** based in New Delhi, India. I recently completed my 
 
 ---
 
-## 📌 Featured Projects
-
-| Project | What it does | Stack |
-|--------|--------------|-------|
-| [**Resume AI**](https://github.com/tushar-kumar-9354/resume_optimizer) | Analyzes resumes, finds skill gaps, suggests projects & quizzes | Django, PostgreSQL, OpenAI GPT |
-| [**EcoSync**](https://github.com/tushar-kumar-9354/EcoSync) | Full-stack sustainability platform with AI features | Python, TypeScript, FastAPI |
-| [**SmartOps**](https://github.com/tushar-kumar-9354) | AI-powered weekly business reporting with anomaly detection | Django, Celery, LangChain, Pandas |
-| [**Chat-Zone**](https://github.com/tushar-kumar-9354) | Real-time AI chat app using WebSockets + NLP | Django, WebSockets, GenAI |
-| [**Auto News Summarizer**](https://github.com/tushar-kumar-9354) | Scrapes news, summarizes with AI, tracks sentiment | Selenium, Gemini API, Pandas |
-| [**GenAI Hub**](https://github.com/tushar-kumar-9354) | Multi-modal GenAI platform (text, image, audio, chatbot) | Hugging Face, gTTS |
-| [**Civic Complaint Portal**](https://github.com/tushar-kumar-9354) | Complaint registration with role-based access | Django, PostgreSQL |
-| [**Python Mastery**](https://github.com/tushar-kumar-9354/PYTHON_MASTERY) | AI-enhanced Python learning platform with auto quizzes | Python, GenAI |
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
