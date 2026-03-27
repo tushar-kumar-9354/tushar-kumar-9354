@@ -21,12 +21,10 @@
 
 I'm a **Software Developer** based in New Delhi, India. I recently completed my **B.Tech in Computer Science (2025)** with a CGPA of 9.00 and have hands-on freelance experience delivering production-ready web and AI applications.
 
-I enjoy building things that solve real problems — whether that's an AI resume optimizer, a booking platform for a client, or an automated reporting system. I'm currently **open to full-time opportunities** in software development.
-
-- 🎓 B.Tech CSE @ ADGITM Delhi — graduated 2025 | CGPA: 9.00 / 10.0
-- 💼 Delivered 3+ freelance production projects (KP RegTech, SolarTechGen, etc.)
-- 🤖 Working with Python, Django, FastAPI, GenAI, LangChain
-- 🧩 Solved 300+ DSA problems
+- 🎓 **B.Tech CSE** @ ADGITM Delhi — graduated 2025 | CGPA: 9.00 / 10.0
+- 💼 **3+ freelance production projects** delivered (KP RegTech, SolarTechGen, etc.)
+- 🤖 Python, Django, FastAPI, GenAI, LangChain
+- 🧩 300+ DSA problems solved
 - 📬 Reach me: **jangratushar348@gmail.com**
 
 ---
@@ -37,6 +35,7 @@ I enjoy building things that solve real problems — whether that's an AI resume
   <a href="https://0tushar-portfolio0.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0077b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tusharkumar-a0a013326/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jangratushar348@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/tushar-kumar-9354"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -45,15 +44,14 @@ I enjoy building things that solve real problems — whether that's an AI resume
 
 | Project | What it does | Stack |
 |--------|--------------|-------|
-| [**Resume AI**](https://github.com/tushar-kumar-9354/resume_optimizer) | Analyzes resumes, finds skill gaps, suggests projects & quizzes | Python, Django, PostgreSQL, OpenAI GPT |
-| [**EcoSync**](https://github.com/tushar-kumar-9354/EcoSync) | Full-stack eco platform with AI features | Python, TypeScript, FastAPI |
-| [**QA Pilot**](https://github.com/tushar-kumar-9354/qa-pilot) | Intelligent QA automation system | Python, Selenium |
+| [**Resume AI**](https://github.com/tushar-kumar-9354/resume_optimizer) | Analyzes resumes, finds skill gaps, suggests projects & quizzes | Django, PostgreSQL, OpenAI GPT |
+| [**EcoSync**](https://github.com/tushar-kumar-9354/EcoSync) | Full-stack sustainability platform with AI features | Python, TypeScript, FastAPI |
 | [**SmartOps**](https://github.com/tushar-kumar-9354) | AI-powered weekly business reporting with anomaly detection | Django, Celery, LangChain, Pandas |
 | [**Chat-Zone**](https://github.com/tushar-kumar-9354) | Real-time AI chat app using WebSockets + NLP | Django, WebSockets, GenAI |
 | [**Auto News Summarizer**](https://github.com/tushar-kumar-9354) | Scrapes news, summarizes with AI, tracks sentiment | Selenium, Gemini API, Pandas |
-| [**GenAI Hub**](https://github.com/tushar-kumar-9354) | Multi-modal GenAI platform (text, image, audio, chatbot) | Hugging Face, gTTS, Prompt Engineering |
+| [**GenAI Hub**](https://github.com/tushar-kumar-9354) | Multi-modal GenAI platform (text, image, audio, chatbot) | Hugging Face, gTTS |
 | [**Civic Complaint Portal**](https://github.com/tushar-kumar-9354) | Complaint registration with role-based access | Django, PostgreSQL |
-| [**Python Mastery**](https://github.com/tushar-kumar-9354/PYTHON_MASTERY) | AI-enhanced Python learning platform with auto quizzes | Python, GenAI, EdTech |
+| [**Python Mastery**](https://github.com/tushar-kumar-9354/PYTHON_MASTERY) | AI-enhanced Python learning platform with auto quizzes | Python, GenAI |
 
 ---
 
@@ -87,45 +85,19 @@ I enjoy building things that solve real problems — whether that's an AI resume
 
 ---
 
-## 📊 GitHub Stats
+## 🏢 Freelance Projects Delivered
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tushar-kumar-9354&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=tushar-kumar-9354&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-kumar-9354&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushar-kumar-9354&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
-## 📜 Certifications
-
-- Python Programming — **Infosys Springboard**
-- Python Basics — **Microsoft**
-- Django Web Framework — **Infosys Springboard**
-- Generative AI — **Infosys Springboard**
-- Agentic AI — **Infosys Springboard**
-- Pandas & Data Analysis — **Infosys Springboard**
-- Selenium Automation — **Infosys Springboard**
+| Client Project | Description |
+|----------------|-------------|
+| **KP RegTech** | Full-stack service booking platform with payment integration, calendar scheduling, and admin dashboards |
+| **SolarTechGen** | Solar consultation booking platform with dynamic time-slot management and admin workflows |
 
 ---
 
 ## ✨ Quick Numbers
 
-| | |
-|---|---|
-| 🗂️ 30+ end-to-end projects completed | 💻 25+ GitHub repositories |
-| 🧩 300+ DSA problems solved | 🤝 3+ freelance clients delivered |
+| 🗂️ 30+ Projects | 💻 25+ Repos | 🧩 300+ DSA | 🤝 3+ Freelance Clients |
+|---|---|---|---|
 
 ---
 
