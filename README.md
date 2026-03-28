@@ -33,7 +33,7 @@ I'm a **Software Developer** based in New Delhi, India. I recently completed my 
 
 <p>
   <a href="https://0tushar-portfolio0.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0077b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tusharkumar-a0a013326/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tushar-kumar-a9354o/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jangratushar348@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/tushar-kumar-9354"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
