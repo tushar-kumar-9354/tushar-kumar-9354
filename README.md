@@ -81,7 +81,7 @@ I'm a **Software Developer** based in New Delhi, India. I recently completed my 
 
 ## ✨ Quick Numbers
 
-| 🗂️ 30+ Projects | 💻 25+ Repos | 🧩 300+ DSA | 🤝 3+ Freelance Clients |
+| 🗂️ 30+ Projects | 💻 30+ Repos | 🧩 300+ DSA | 🤝 3+ Freelance Clients |
 |---|---|---|---|
 
 ---
